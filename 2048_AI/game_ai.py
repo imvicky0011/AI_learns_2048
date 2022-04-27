@@ -6,7 +6,7 @@ SAMPLE_COUNT = 50
 
 SPM_SCALE_PARAM = 10
 SL_SCALE_PARAM = 4
-SEARCH_PARAM = 20
+SEARCH_PARAM = 50
 
 from game_functions import initialize_game, random_move,\
                             move_down, move_left,\
